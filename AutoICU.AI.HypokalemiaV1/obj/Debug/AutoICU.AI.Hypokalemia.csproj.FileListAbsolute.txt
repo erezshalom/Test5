@@ -1,0 +1,8 @@
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI.Hypokalemia\bin\Debug\AutoICU.AI.Hypokalemia.dll
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI.Hypokalemia\bin\Debug\AutoICU.AI.Hypokalemia.pdb
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI.Hypokalemia\bin\Debug\AutoICU.AI.dll
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI.Hypokalemia\bin\Debug\Mommosoft.ExpertSystem.dll
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI.Hypokalemia\bin\Debug\AutoICU.AI.pdb
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI.Hypokalemia\obj\Debug\AutoICU.AI.Hypokalemia.csprojResolveAssemblyReference.cache
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI.Hypokalemia\obj\Debug\AutoICU.AI.Hypokalemia.dll
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI.Hypokalemia\obj\Debug\AutoICU.AI.Hypokalemia.pdb

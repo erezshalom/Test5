@@ -1,0 +1,40 @@
+﻿{
+  "Interventions": [
+    {
+      "Name": "Hypokalemia",
+      "Events": [
+        "Potassium",
+        "GFR",
+        "Creatinine",
+        "Urine Production",
+        "Potassium Supplimentation",
+        "Routes",
+        "Magnesium",
+        "Phosphorous",
+        "Total Calcium",
+        "Ionized Calcium",
+        "Corrected Calcium",
+        "Weight",
+        "Ethnicity",
+        "Gender"
+      ]
+    }
+  ],
+  "Sources": [
+    {
+      "Name": "MIMIC III",
+      "Events": [
+        {
+          "Name": "Age",
+          "Table": "subjects",
+          "Column": "age"
+        },
+        {
+          "Name": "Weight",
+          "Table": "chartevents",
+          ""
+        }
+      ]
+    }
+  ]
+}

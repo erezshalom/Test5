@@ -1,0 +1,16 @@
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI\bin\Debug\AutoICU.AI.dll
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI\bin\Debug\AutoICU.AI.pdb
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI\obj\Debug\AutoICU.AI.dll
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI\obj\Debug\AutoICU.AI.pdb
+D:\Kinor\Tools\HypokalemiaOld\AutoICU.AI\obj\Debug\AutoICU.AI.csprojResolveAssemblyReference.cache
+C:\Donald\HypokalemiaOld\AutoICU.AI\bin\Debug\AutoICU.AI.dll
+C:\Donald\HypokalemiaOld\AutoICU.AI\bin\Debug\AutoICU.AI.pdb
+C:\Donald\HypokalemiaOld\AutoICU.AI\obj\Debug\AutoICU.AI.dll
+C:\Donald\HypokalemiaOld\AutoICU.AI\obj\Debug\AutoICU.AI.pdb
+C:\Donald\HypokalemiaOld\AutoICU.AI\obj\Debug\AutoICU.AI.csprojResolveAssemblyReference.cache
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\AutoICU.AI\bin\Debug\AutoICU.AI.dll
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\AutoICU.AI\bin\Debug\AutoICU.AI.pdb
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\AutoICU.AI\obj\Debug\AutoICU.AI.csprojAssemblyReference.cache
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\AutoICU.AI\obj\Debug\AutoICU.AI.csproj.CoreCompileInputs.cache
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\AutoICU.AI\obj\Debug\AutoICU.AI.dll
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\AutoICU.AI\obj\Debug\AutoICU.AI.pdb

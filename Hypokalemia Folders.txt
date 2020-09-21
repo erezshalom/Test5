@@ -1,0 +1,12 @@
+This folder contains the source code for the Hypokalemia modules, the Hypokalemia V1 UI, the proposed Hypokalemia V2 UI.
+
+Folders:
+AutoICU.AI						The AI Module loader and common interface.
+AutoICU.AI.HypokalemiaV1		The Hypokalemia V1 Module
+AutoICU.AI.HypokalemiaV2		The Hypokalemia V2 Module
+ExcelTestRunner					Runs testcases from MIMIC III spreadsheet with V1 module
+ExcelTestRunnerV2				Runs testcases from MIMIC III spreadsheet with V2 module
+HypokalemiaTestUI				Proposed UI for running testcases
+HypokalemiaUI					Delivered demonstration UI for V1 module
+
+The top folder contains a VS2015 solution file for all of the projects in these folders. Any reasonable C# developer should be able to build and test the projects.

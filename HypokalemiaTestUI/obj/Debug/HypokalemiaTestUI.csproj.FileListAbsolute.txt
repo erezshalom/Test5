@@ -1,0 +1,17 @@
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\obj\Debug\HypokalemiaTestUI.csprojAssemblyReference.cache
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\obj\Debug\TestUI.TopForm.resources
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\obj\Debug\Hypokalemia.Properties.Resources.resources
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\obj\Debug\HypokalemiaTestUI.csproj.GenerateResource.cache
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\obj\Debug\HypokalemiaTestUI.csproj.CoreCompileInputs.cache
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\bin\Debug\Hypokalemia.clp
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\bin\Debug\HypokalemiaMommo.exe.config
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\bin\Debug\HypokalemiaMommo.exe
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\bin\Debug\HypokalemiaMommo.pdb
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\bin\Debug\AutoICU.AI.dll
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\bin\Debug\AutoICU.AI.HypokalemiaV1.dll
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\bin\Debug\Mommosoft.ExpertSystem.dll
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\bin\Debug\AutoICU.AI.HypokalemiaV1.pdb
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\bin\Debug\AutoICU.AI.pdb
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\obj\Debug\HypokalemiaTestUI.csproj.CopyComplete
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\obj\Debug\HypokalemiaMommo.exe
+C:\Users\Kids\Desktop\hipo\HypokalemiaSources\Hypokalemia\HypokalemiaTestUI\obj\Debug\HypokalemiaMommo.pdb

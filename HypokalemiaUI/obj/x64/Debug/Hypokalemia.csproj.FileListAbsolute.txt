@@ -1,0 +1,12 @@
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\x64\Debug\Hypokalemia.clp
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\x64\Debug\HypokalemiaTests.clp
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\x64\Debug\Hypokalemia.exe.config
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\x64\Debug\Hypokalemia.exe
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\x64\Debug\Hypokalemia.pdb
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\x64\Debug\Hyperkalemia.TopForm.resources
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\x64\Debug\Hypokalemia.Properties.Resources.resources
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\x64\Debug\Hypokalemia.csproj.GenerateResource.Cache
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\x64\Debug\Hypokalemia.exe
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\x64\Debug\Hypokalemia.pdb
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\x64\Debug\Mommosoft.ExpertSystem.dll
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\x64\Debug\Hypokalemia.csprojResolveAssemblyReference.cache

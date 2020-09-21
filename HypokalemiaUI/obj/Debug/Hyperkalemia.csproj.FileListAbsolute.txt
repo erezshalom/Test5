@@ -1,0 +1,13 @@
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\bin\Debug\Hyperkalemia.exe.config
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\bin\Debug\Hyperkalemia.exe
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\bin\Debug\Hyperkalemia.pdb
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\obj\Debug\Hyperkalemia.csprojResolveAssemblyReference.cache
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\obj\Debug\Hyperkalemia.Properties.Resources.resources
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\obj\Debug\Hyperkalemia.csproj.GenerateResource.Cache
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\obj\Debug\Hyperkalemia.exe
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\obj\Debug\Hyperkalemia.pdb
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\obj\Debug\Hyperkalemia.TopForm.resources
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\bin\Debug\Hypokalemia.clp
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\bin\Debug\CLIPSCLRWrapper.dll
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\bin\Debug\CLIPSCLRWrapper.pdb
+D:\Kinor\Tools\Hyperkalemia\Hyperkalemia\bin\Debug\HypokalemiaTests.clp

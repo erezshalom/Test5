@@ -1,0 +1,13 @@
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\Debug\Hypokalemia.clp
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\Debug\HypokalemiaTests.clp
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\Debug\Hypokalemia.exe.config
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\Debug\Hypokalemia.exe
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\Debug\Hypokalemia.pdb
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\Debug\CLIPSCLRWrapper.dll
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\bin\Debug\CLIPSCLRWrapper.pdb
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\Debug\Hyperkalemia.TopForm.resources
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\Debug\Hypokalemia.Properties.Resources.resources
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\Debug\Hypokalemia.csproj.GenerateResource.Cache
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\Debug\Hypokalemia.exe
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\Debug\Hypokalemia.pdb
+D:\Kinor\Tools\Hypokalemia\Hypokalemia\obj\Debug\Hypokalemia.csprojResolveAssemblyReference.cache

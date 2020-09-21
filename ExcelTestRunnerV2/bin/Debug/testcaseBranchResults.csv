@@ -1,0 +1,1787 @@
+PatientID,Notes,Hypokalemia Data,All Data,K 1 mEq/l,K 1 date/time,K 2 mEq/l,K 2 date/time,K 2 hours,K 3 mEq/l,K 3 date/time,K 3 hours,Dialysis,Gender,Ethnicity,DOB,Age,SCr 1 mg/dl,SCr 1 date/time,SCr 1 hours,SCr 2 mg/dl,SCr 2 date/time,SCr 2 hours,SCr 3 mg/dl,SCr 3 date/time,SCr 3 hours,CCR 1 ml/min,CCR 1 Date,CCR 1 hours,CCR 2 ml/min,CCR 2 Date,CCR 2 hours,CCR 3 ml/min,CCR 3 Date,CCR 3 hours,Urine Prod 3 hr ml/kg/hr,Urine Prod 6 hr ml/kg/hr,Urine Prod 24 hr ml/kg/hr,Weight kg,Wt date/time,Wt hours,Loop Diuretic Dsc,Diarrhea Dsc,24 supplements,48 supplements,Phosphate mg/dl,Phos date/time,Phosphate hours,Ca mg/dl,Ca date/time,Ca hours,Ca type,Albumin g/dl,Albumin date/time,Albumin hours,Mg mg/dl,Mg date/time,Mg hours,,Supplements Given,,Treatments,Actions,Reasons,,Valid,Preferred Result8,Discussion
+100108,,,,4.2,02/05/2143 1:31:00,4.3,01/05/2143 18:37:00,-7,,01/01/0001 0:00:00,-18779282,Yes,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-12,,01/01/0001 0:00:00,-18779282,,01/01/0001 0:00:00,-18779282,,01/01/0001 0:00:00,-18779282,,01/01/0001 0:00:00,-18779282,,01/01/0001 0:00:00,-18779282,0.6,,,98,01/05/2143 23:00:00,-3,No,No,,,,01/01/0001 0:00:00,-18779282,,01/01/0001 0:00:00,-18779282,,,01/01/0001 0:00:00,-18779282,,01/01/0001 0:00:00,-18779282,,,,"","Please confirm hypokalemia diagnosis.","Potassium is 4.0 or more."
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,Yes,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","Patient is undergoing dialysis.
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1.2,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Normal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1.2,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Marginal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1.2,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1.2,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is over 60
+Urine-production is Anuric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1.2,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Unknown
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Normal
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Marginal
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is over 60
+Urine-production is Anuric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Unknown
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,0.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Normal
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,0.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Marginal
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,0.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,0.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is over 60
+Urine-production is Anuric
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,0.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Unknown
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Normal
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Marginal
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is over 60
+Urine-production is Anuric
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Unknown
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Marginal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is at least 30 and not more than 60
+Urine-production is Oliguric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Anuric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Unknown
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.6,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.6,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Marginal
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.6,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is at least 30 and not more than 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.6,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Anuric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.6,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Unknown
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is at least 30 and not more than 60
+Urine-production is Marginal
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Oliguric
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Anuric
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is at least 30 and not more than 60
+Urine-production is Unknown
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Marginal
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is at least 30 and not more than 60
+Urine-production is Oliguric
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Anuric
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is at least 30 and not more than 60
+Urine-production is Unknown
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,4.4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is less than 30
+Urine-production is Normal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,4.4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is less than 30
+Urine-production is Marginal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,4.4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is less than 30
+Urine-production is Oliguric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,4.4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is less than 30
+Urine-production is Anuric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,4.4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is less than 30
+Urine-production is Unknown
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is less than 30
+Urine-production is Normal
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is less than 30
+Urine-production is Marginal
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is less than 30
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is less than 30
+Urine-production is Anuric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,4,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is less than 30
+Urine-production is Unknown
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,3.6,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is less than 30
+Urine-production is Normal
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,3.6,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is less than 30
+Urine-production is Marginal
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,3.6,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is less than 30
+Urine-production is Oliguric
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,3.6,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is less than 30
+Urine-production is Anuric
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,3.6,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is less than 30
+Urine-production is Unknown
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is less than 30
+Urine-production is Normal
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is less than 30
+Urine-production is Marginal
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is less than 30
+Urine-production is Oliguric
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is less than 30
+Urine-production is Anuric
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,4,01/05/2143 13:27:00,-18,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is less than 30
+Urine-production is Unknown
+GFR-trend is Unknown
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,Yes,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"","Please provide a value for History-adjusted-scheme.","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+Past diuretic use has ended.
+potassium-range is LOW
+Unable to complete processing at state Step-8-LOW. Missing value for History-adjusted-scheme."
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"","Please provide a value for History-adjusted-scheme.","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+Past diarrhea has ended.
+potassium-range is LOW
+Unable to complete processing at state Step-8-LOW. Missing value for History-adjusted-scheme."
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,2.6,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,0,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 2
+history-adjustment is 1
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3,02/05/2143 7:00:00,2.6,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,20,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is 20mEq
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,2.6,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,40,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is 40mEq
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,2.6,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,60,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is 60mEq
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 2
+history-adjustment is -1
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,0,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,20,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is 20mEq
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,40,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is 40mEq
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is -1
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,60,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is 60mEq
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is -1
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3.4,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,0,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Decreasing
+TTT-adjusted-scheme is 2
+history-adjustment is -1
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3.4,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,20,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is 20mEq
+Potassium-trend is Decreasing
+TTT-adjusted-scheme is 2
+history-adjustment is -1
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3.4,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,40,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is 40mEq
+Potassium-trend is Decreasing
+TTT-adjusted-scheme is 2
+history-adjustment is -1
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3,02/05/2143 7:00:00,3.4,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,1,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,60,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Oliguric
+GFR-trend is Stable
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is 60mEq
+Potassium-trend is Decreasing
+TTT-adjusted-scheme is 2
+history-adjustment is -2
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3.9,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 1
+history-adjustment is 1
+potassium-range is HIGH
+History-adjusted-scheme is 2
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3.5,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 1
+history-adjustment is 1
+potassium-range is MED
+History-adjusted-scheme is 2
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3.1,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 40 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,2.9,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (20 mEq iv and 40 mEq enteral if available, otherwise all iv)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is VLOW
+History-adjusted-scheme is 1
+supplementation is 20+40mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3.9,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Marginal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 2
+history-adjustment is 1
+potassium-range is HIGH
+History-adjusted-scheme is 3
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3.5,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Marginal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 2
+history-adjustment is 1
+potassium-range is MED
+History-adjusted-scheme is 3
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3.1,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Marginal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,2.9,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.45,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"60mEq KCl (20 mEq iv and 40 mEq enteral if available, otherwise all iv)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Marginal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is VLOW
+History-adjusted-scheme is 2
+supplementation is 20+40mEq*
+Phos unknown.
+KCl is 60mEq"
+100108,,,,3.9,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Oliguric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 3
+history-adjustment is 1
+potassium-range is HIGH
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3.5,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Oliguric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 3
+history-adjustment is 1
+potassium-range is MED
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3.1,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl (enteral > central iv > peripheral iv)","","GFR is at least 30 and not more than 60
+Urine-production is Oliguric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 3
+supplementation is 20mEq
+Phos unknown.
+KCl is 20mEq"
+100108,,,,2.9,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.2,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (20 mEq central iv > peripheral iv and 20 mEq enteral if available, otherwise all iv)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Oliguric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 3
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 3
+history-adjustment is 0
+potassium-range is VLOW
+History-adjusted-scheme is 3
+supplementation is 20+20mEq*
+Phos unknown.
+KCl is 40mEq"
+100108,,,,3.9,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Anuric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 4
+history-adjustment is 1
+potassium-range is HIGH
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3.5,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Anuric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 4
+history-adjustment is 1
+potassium-range is MED
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,3.1,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Anuric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 4
+supplementation is NONE
+Phos unknown.
+KCl is NONE"
+100108,,,,2.9,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.05,,,98,01/05/2143 23:00:00,-8,No,No,,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl iv (central > peripheral vs enteral if available)","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Anuric
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 4
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 4
+history-adjustment is 0
+potassium-range is VLOW
+History-adjusted-scheme is 4
+supplementation is 20mEq*
+Phos unknown.
+KCl is 20mEq"
+100108,,,,3.1,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,0.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,2.4,02/05/2143 9:22:00,2,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"40mEq KCl (enteral > central iv > peripheral iv, but consider 20 mEq iv and 20 mEq enteral)","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Normal
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos >= 2, No Phos supplementation needed.
+KCl is 40mEq"
+100108,,,,3.1,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,0.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,1.6,02/05/2143 9:22:00,2,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl
+15mmol KPhos","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Normal
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos > 1.5 and < 2, Can replace 20mEq KCl with 15mmol KPhos.
+KCl is 40mEq"
+100108,,,,3.1,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1,01/05/2143 13:27:00,-18,0.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,1.2,02/05/2143 9:22:00,2,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"30mmol KPhos","Recommend checking and/or replacing Mg++","GFR is over 60
+Urine-production is Normal
+GFR-trend is Worsening
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 2
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 2
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 2
+supplementation is 40mEqSplit*
+Phos <= 1.5, Can replace 40mEq KCl with 30mmol KPhos.
+KCl is 40mEq"
+100108,,,,3.9,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,1.6,02/05/2143 9:22:00,2,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"No supplementation","","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 1
+history-adjustment is 1
+potassium-range is HIGH
+History-adjusted-scheme is 2
+supplementation is NONE
+Phos > 1.5 and < 2, Can replace 20mEq KCl with 15mmol KPhos.
+KCl is NONE"
+100108,,,,3.5,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,1.6,02/05/2143 9:22:00,2,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"15mmol KPhos","","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 1
+history-adjustment is 1
+potassium-range is MED
+History-adjusted-scheme is 2
+supplementation is 20mEq
+Phos > 1.5 and < 2, Can replace 20mEq KCl with 15mmol KPhos.
+KCl is 20mEq"
+100108,,,,3.5,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,1.2,02/05/2143 9:22:00,2,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"15mmol KPhos","","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Increasing
+TTT-adjusted-scheme is 1
+history-adjustment is 1
+potassium-range is MED
+History-adjusted-scheme is 2
+supplementation is 20mEq
+Phos <= 1.5, Can replace 40mEq KCl with 30mmol KPhos.
+KCl is 20mEq"
+100108,,,,3.1,02/05/2143 7:00:00,3,02/05/2143 3:05:00,-4,,01/01/0001 0:00:00,-18779287,No,M,UNKNOWN/NOT SPECIFIED,28/03/2083 0:00,60,1.6,01/05/2143 13:27:00,-18,1.8,01/05/2143 1:00:00,-30,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,0.6,,,98,01/05/2143 23:00:00,-8,No,No,,,1.2,02/05/2143 9:22:00,2,,01/01/0001 0:00:00,-18779287,,,01/01/0001 0:00:00,-18779287,,01/01/0001 0:00:00,-18779287,,,,"20mEq KCl
+30mmol KPhos","Recommend checking and/or replacing Mg++","GFR is at least 30 and not more than 60
+Urine-production is Normal
+GFR-trend is Improving
+TTT-state is NONE
+time-to-rewarming is over-4-hours
+proposed-treatment-scheme is 1
+TTT-adjustment is 0
+No diuretic use or continuing diuretic use.
+No diarrhea or continuing diarrhea.
+Past-Supplementation is NONE
+Potassium-trend is Stable
+TTT-adjusted-scheme is 1
+history-adjustment is 0
+potassium-range is LOW
+History-adjusted-scheme is 1
+supplementation is 60mEq*
+Phos <= 1.5, Can replace 40mEq KCl with 30mmol KPhos.
+KCl is 60mEq"
